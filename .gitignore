@@ -1,0 +1,7 @@
+
+# Exclude project environment variables
+project/studentms-frontend/.env
+
+# Generated dependencies and build files
+**/node_modules/
+**/target/
